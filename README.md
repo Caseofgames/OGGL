@@ -1,2 +1,2 @@
 # OGGL
-The Open Game Graphics Language
+The Open Game Graphics Library
